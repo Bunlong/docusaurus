@@ -7,6 +7,8 @@ Easy to Maintain Open Source Documentation Websites.
 - 🎈 Copy snippets to clipboard with a click
 - 💄 Prettify the snippets
 
+<br/>
+
 ### 🏗 How do I add a new doc?
 
 The documents are documented using markdown in `public/docs` directory.
