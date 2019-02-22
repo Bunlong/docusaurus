@@ -24,6 +24,4 @@ To add a new document, add a new markdown file under a folder.
 
 ### 👩‍🎨 Contributors
 
-Thanks goes to these wonderful people
-
-| [<img src="https://avatars2.githubusercontent.com/u/1308397?s=400&v=4" width="100px;"/><br /><sub><b>Bunlong</b></sub>](https://twitter.com/bunlongvan)<br />[💻]
+| [<img src="https://avatars2.githubusercontent.com/u/1308397?s=400&v=4" width="100px;"/><br /><sub><b>Bunlong</b></sub>](https://twitter.com/bunlongvan)<br />
