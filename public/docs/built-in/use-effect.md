@@ -1,0 +1,40 @@
+# name
+
+useEffect
+
+# reference
+
+https://reactjs.org/docs/hooks-effect.html
+
+# description
+
+The Effect Hook lets you perform side effects in function components
+
+# usage
+
+```
+function Demo() {
+  const [count, setCount] = useState(0);
+
+  // Similar to componentDidMount and componentDidUpdate:
+  useEffect(() => {
+    // Update the document title using the browser API
+    document.title = `You clicked ${count} times`;
+  });
+
+  return (
+    <div>
+      <p>You clicked {count} times</p>
+      <button onClick={() => setCount(count + 1)}>
+        Click me
+      </button>
+    </div>
+  );
+}
+```
+
+# contributors
+
+Bunlong
+https://avatars2.githubusercontent.com/u/1308397?s=400&v=4
+https://twitter.com/bunlongvan

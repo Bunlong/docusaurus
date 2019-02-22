@@ -1,0 +1,49 @@
+{
+  "name": "docusaurus",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@babel/standalone": "^7.1.0",
+    "babel-plugin-macros": "^2.4.2",
+    "brace": "^0.11.1",
+    "buble": "^0.19.6",
+    "clipboard-copy": "^2.0.1",
+    "marked": "^0.5.1",
+    "prettier": "^1.14.3",
+    "prismjs": "^1.15.0",
+    "raw.macro": "^0.2.0",
+    "react": "^16.8.1",
+    "react-ace": "^6.2.0",
+    "react-cache": "16.6.0-alpha.8af6728",
+    "react-dom": "^16.8.1",
+    "react-ga": "^2.5.3",
+    "react-router-dom": "^4.3.1",
+    "react-scripts": "2.0.5",
+    "react-simple-code-editor": "^0.6.1",
+    "reflexbox": "^3.0.1",
+    "styled-components": "^4.0.2",
+    "typeface-nunito": "^0.0.54"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "ci": "yarn build"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ],
+  "devDependencies": {
+    "all-contributors-cli": "^5.4.1",
+    "lodash.throttle": "^4.1.1",
+    "node-dir": "^0.1.17",
+    "react-helmet": "^5.2.0"
+  }
+}
